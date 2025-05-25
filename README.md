@@ -29,3 +29,4 @@ This project helps travelers estimate the total cost of a weekend getaway from A
 ![Weekend Trip Costs](./Weekend_Trip_Cost_Chart.png)
 
 This project is ideal for weekend travelers and remote workers planning short, budget-friendly getaways.
+Notion: https://cultured-wanderer-6ce.notion.site/David-Gapinski-Data-Travel-Analytics-Portfolio-1fe223828d4880b4b4e3df0372f38645
